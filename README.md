@@ -1,4 +1,5 @@
 
+# ВРЕМЕННО НЕ РАБОТАЕТ!
 # Сервер ScratcherCraft, для версии 1.16.4
 ## ip panel.zeohost.xyz:25562
 
