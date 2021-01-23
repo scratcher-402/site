@@ -1,3 +1,14 @@
+# Server 2021b2021t, for version 1.16.4
+# # ip 161.97.102.151:23057
+
+### The server rules
+
+#### Rules:
+- 1. "axtlos" forbidden to enter the server [Ban forever]
+- 2. Advertising and sales of paid services are prohibited in the chat [Ban for 3 days]
+- 3. It is forbidden to ask for cooperation/creative mode/operator status on the server in the chat [Ban forever]
+- 4. It is forbidden to distribute personal information, including addresses, phone numbers, passport, etc. [Ban for 14 days to the person who asked for personal information]
+
 
 # Сервер 2021b2021t, для версии 1.16.4
 ## ip 161.97.102.151:23057
